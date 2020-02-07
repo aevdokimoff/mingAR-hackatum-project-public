@@ -1,5 +1,3 @@
-Initial readme for the project
-
 # mingAR
 A unique experience of discovering the city of Minga ❤️
 
@@ -17,6 +15,8 @@ Its NOT you! Discovering through the lens of other people limits your experience
 > There are often some hundred times, a thousand times, before you can really see it for the first
 time
 > - Christian Morgenstern, Munich
+
+![alt text](screen.jpg)
 
 ### Functionality
 * Visit Points of Interests (e.g Landmarks, buildings, sights)
