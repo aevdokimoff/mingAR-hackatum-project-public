@@ -26,6 +26,11 @@ time
 * Complete Challenges to get Points for the Leaderboard and win prizes like a beer at the Hofbräuhaus
 * Make a walking tour in your own pace, with our predefined themed Tours (e.g Street Art, Royals, Historic Landmarks, Munich during the Nazitime)
 
+### Used tools
+* Apple ARKit
+* Node.js
+* Real data from [Open-Data-Portal München](https://www.opengov-muenchen.de)
+
 ### Targetgroup
 * Tourists on vacation
 * Munich locals who want to discover their home more deeply
