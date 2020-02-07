@@ -16,9 +16,10 @@ Its NOT you! Discovering through the lens of other people limits your experience
 time
 > - Christian Morgenstern, Munich
 
+### Functionality
+
 ![alt text](screen.jpg)
 
-### Functionality
 * Visit Points of Interests (e.g Landmarks, buildings, sights)
 * Discover additional Information about the Poi’s with our exceptional ARview
 * Leave your notes on the buildings for the next guest to discover or write some historic facts that only a true local can know
