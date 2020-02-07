@@ -59,4 +59,4 @@ This is an open source project, so you need to perform intallation manually.
 3. Sync schema: `ts-node ./node_modules/typeorm/cli.js schema:sync`
 
 ### Credits
-Dan Bachar, Artem Evdokimov, Daniel Gloukhman, Łukasz Zalewski
+Artem Evdokimov, Dan Bachar, Daniel Gloukhman, Łukasz Zalewski
