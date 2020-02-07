@@ -17,13 +17,14 @@ time
 > - Christian Morgenstern, Munich
 
 ### Solution
-![alt text](screen.jpg)
+![alt text](screen-02.jpg)
 
 mingAR shows in AR points of interest around you, allowing you to quickly understand what do you want to visit next. You can see your location on a map and choose the best destinations there and then find them using AR or just open the AR view and see all POIs you can visit. You are interested what this place or building is about? Just open the mingAR app and you will get a description and all information about it!
 
 Our application also allows the user to collect achievements, accomplish goals and compete with other users. For example, you can collect points for visiting certain places and get beautiful badges for successfully completing the challenges.
 
 ### Functionality
+![alt text](screen-01.jpg)
 * Visit Points of Interests (e.g Landmarks, buildings, sights)
 * Discover additional Information about the Poi’s with our exceptional ARview
 * Leave your notes on the buildings for the next guest to discover or write some historic facts that only a true local can know
